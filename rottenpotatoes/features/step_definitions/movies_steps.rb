@@ -23,3 +23,8 @@ Then /I should see all the movies/ do
     step %{I should see "#{movie.title}"}
   end
 end
+
+Then /^the director of "(.*)" should be "([^"]*)"$/ do |movie_name, value|
+  expect(page).to have_content(movie_name)
+  expect(page.body).to match(value)
+end
