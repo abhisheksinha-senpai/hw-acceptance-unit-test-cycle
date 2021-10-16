@@ -34,24 +34,5 @@ Feature: search for movies by director
 
 3 scenarios (3 passed)
 17 steps (17 passed)
-0m0.523s
-Coverage report generated for Cucumber Features, RSpec to /home/ubuntu/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 47 / 49 LOC (95.92%) covered.
-/home/ubuntu/.rvm/rubies/ruby-2.6.8/bin/ruby -I/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/lib:/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-support-3.7.1/lib /home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/exe/rspec --pattern spec/\*\*\{,/\*/\*\*\}/\*_spec.rb
-...................
-
-1 deprecation warning total
-
-Finished in 0.33535 seconds (files took 1.67 seconds to load)
-19 examples, 0 failures
-
+0m0.470s
 Coverage report generated for Cucumber Features, RSpec to /home/ubuntu/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 43 / 45 LOC (95.56%) covered.
-/home/ubuntu/.rvm/rubies/ruby-2.6.8/bin/ruby -I/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/lib:/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-support-3.7.1/lib /home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/exe/rspec --pattern spec/\*\*\{,/\*/\*\*\}/\*_spec.rb
-...................
-
-1 deprecation warning total
-
-Finished in 0.32458 seconds (files took 1.68 seconds to load)
-19 examples, 0 failures
-
-Coverage report generated for Cucumber Features, RSpec to /home/ubuntu/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 43 / 45 LOC (95.56%) covered.
-/home/ubuntu/.rvm/rubies/ruby-2.6.8/bin/ruby -I/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/lib:/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-support-3.7.1/lib /home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/exe/rspec --pattern spec/\*\*\{,/\*/\*\*\}/\*_spec.rb

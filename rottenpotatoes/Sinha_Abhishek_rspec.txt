@@ -1,0 +1,9 @@
+/home/ubuntu/.rvm/rubies/ruby-2.6.8/bin/ruby -I/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/lib:/home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-support-3.7.1/lib /home/ubuntu/.rvm/gems/ruby-2.6.8/gems/rspec-core-3.7.1/exe/rspec --pattern spec/\*\*\{,/\*/\*\*\}/\*_spec.rb
+...........
+
+1 deprecation warning total
+
+Finished in 0.18557 seconds (files took 1.64 seconds to load)
+11 examples, 0 failures
+
+Coverage report generated for Cucumber Features, RSpec to /home/ubuntu/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 43 / 45 LOC (95.56%) covered.
